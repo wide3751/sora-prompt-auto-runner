@@ -2,8 +2,6 @@
 
 一个专为 Sora 视频生成平台设计的 Chrome 扩展，能够自动批量提交提示词（prompts），让您轻松完成大批量的视频生成任务。
 
-![Extension Preview](https://via.placeholder.com/800x500/667eea/ffffff?text=Sora+Prompt+Auto+Runner)
-
 ## ✨ 功能特点
 
 - 🚀 **批量自动化**: 支持一次性提交多个提示词，无需手动逐个输入
@@ -216,14 +214,6 @@ sora-prompt-auto-runner/
 - **提供反馈**: 报告 Bug 或提出改进建议
 - **贡献代码**: 提交 Pull Request 帮助改进项目
 
-### 💰 资金支持
-
-**🎯 为什么需要您的支持？**
-- 持续开发新功能和改进现有功能
-- 维护项目稳定性和兼容性
-- 提供及时的技术支持和问题解答
-- 支持更多视频生成平台的适配
-
 **☕ 请我喝杯咖啡：**
 
 如果这个项目对您有帮助，您可以请我喝杯咖啡来支持开发！
@@ -232,12 +222,10 @@ sora-prompt-auto-runner/
 
 *每一杯咖啡都是对开发者的鼓励，让项目持续更新！* ☕
 
-## �📞 支持与反馈
+## 📞 支持与反馈
 
 - 🐛 **问题报告**: [GitHub Issues](https://github.com/your-username/sora-prompt-auto-runner/issues)
 - 💡 **功能建议**: [GitHub Discussions](https://github.com/your-username/sora-prompt-auto-runner/discussions)
-- 📧 **联系邮箱**: your-email@example.com
-
 ---
 
 ⭐ **如果这个项目对您有帮助，请给我们一个星标！**
