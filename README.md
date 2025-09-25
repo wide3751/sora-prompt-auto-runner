@@ -20,7 +20,7 @@
 
 1. **下载源码**
    ```bash
-   git clone https://github.com/your-username/sora-prompt-auto-runner.git
+   git clone https://github.com/wide3751/sora-prompt-auto-runner.git
    cd sora-prompt-auto-runner
    ```
 
@@ -37,7 +37,7 @@
 
 ### 方法二：直接下载
 
-1. 点击右侧的 [Releases](https://github.com/your-username/sora-prompt-auto-runner/releases) 页面
+1. 点击右侧的 [Releases](https://github.com/wide3751/sora-prompt-auto-runner/releases) 页面
 2. 下载最新版本的 `.zip` 文件
 3. 解压后按照方法一的步骤 2-3 进行安装
 
@@ -206,7 +206,48 @@ sora-prompt-auto-runner/
 - 感谢所有为项目贡献代码和建议的开发者
 - 特别感谢 Sora 平台为创意工作者提供的强大工具
 
-## 📞 支持与反馈
+## � 支持项目
+
+如果这个项目对您有帮助，您可以通过以下方式支持我们：
+
+### ⭐ 免费支持
+- **给个 Star**: 点击右上角的 ⭐ 按钮
+- **分享项目**: 推荐给其他有需要的朋友
+- **提供反馈**: 报告 Bug 或提出改进建议
+- **贡献代码**: 提交 Pull Request 帮助改进项目
+
+### 💰 资金支持
+
+**🎯 为什么需要您的支持？**
+- 持续开发新功能和改进现有功能
+- 维护项目稳定性和兼容性
+- 提供及时的技术支持和问题解答
+- 支持更多视频生成平台的适配
+
+**💳 捐赠方式：**
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/wide3751)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/wide3751)
+
+**🏆 赞助者权益：**
+- ✅ 优先技术支持
+- ✅ 功能建议优先考虑
+- ✅ 在 README 中展示（可选）
+- ✅ 早期体验新功能
+
+**☕ 其他支持方式：**
+- **Buy me a coffee**: 请我喝杯咖啡 ☕
+- **加密货币**: Bitcoin, Ethereum 等（联系我获取地址）
+- **实物赞助**: 开发设备或云服务积分
+
+### 🏅 贡献者和赞助者
+
+**🌟 特别感谢以下支持者：**
+<!-- 这里会自动更新赞助者信息 -->
+
+*成为第一个支持者，您的名字将出现在这里！*
+
+## �📞 支持与反馈
 
 - 🐛 **问题报告**: [GitHub Issues](https://github.com/your-username/sora-prompt-auto-runner/issues)
 - 💡 **功能建议**: [GitHub Discussions](https://github.com/your-username/sora-prompt-auto-runner/discussions)
@@ -216,5 +257,8 @@ sora-prompt-auto-runner/
 
 ⭐ **如果这个项目对您有帮助，请给我们一个星标！**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/sora-prompt-auto-runner.svg?style=social&label=Star)](https://github.com/your-username/sora-prompt-auto-runner)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/sora-prompt-auto-runner.svg?style=social&label=Fork)](https://github.com/your-username/sora-prompt-auto-runner/fork)
+[![GitHub stars](https://img.shields.io/github/stars/wide3751/sora-prompt-auto-runner.svg?style=social&label=Star)](https://github.com/wide3751/sora-prompt-auto-runner)
+[![GitHub forks](https://img.shields.io/github/forks/wide3751/sora-prompt-auto-runner.svg?style=social&label=Fork)](https://github.com/wide3751/sora-prompt-auto-runner/fork)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/wide3751?style=social)](https://github.com/sponsors/wide3751)
+
+💝 **考虑赞助支持项目持续发展**

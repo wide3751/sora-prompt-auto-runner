@@ -121,9 +121,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const startBtn = $("start");
   const stopBtn = $("stop");
   const insertExampleBtn = $("insertExample");
+  const coffeeBtn = $("coffee");
   const status = $("status");
 
-  if (!promptsEl || !textareaXPathEl || !submitXPathEl || !logVerboseEl || !startBtn || !stopBtn || !insertExampleBtn || !status) {
+  if (!promptsEl || !textareaXPathEl || !submitXPathEl || !logVerboseEl || !startBtn || !stopBtn || !insertExampleBtn || !coffeeBtn || !status) {
     console.error("[Popup] 缺少必要的 DOM 元素，請檢查 popup.html 的 id 是否一致");
     return;
   }
@@ -243,6 +244,11 @@ document.addEventListener("DOMContentLoaded", () => {
       status.className = "error";
       status.textContent = `❌ 停止失敗：${e.message}`;
     }
+  });
+
+  // 咖啡按鈕 - 請我喝咖啡
+  coffeeBtn.addEventListener("click", () => {
+    window.open('https://www.paypal.me/wide3751', '_blank');
   });
 });
 // ========== popup.js 主邏輯 ==========
