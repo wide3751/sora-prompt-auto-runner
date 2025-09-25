@@ -1,0 +1,32 @@
+# Chrome Extension
+*.crx
+*.pem
+key.pem
+
+# Development files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Node.js (if using build tools in future)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
