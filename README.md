@@ -224,28 +224,13 @@ sora-prompt-auto-runner/
 - 提供及时的技术支持和问题解答
 - 支持更多视频生成平台的适配
 
-**💳 捐赠方式：**
+**☕ 请我喝杯咖啡：**
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/wide3751)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/wide3751)
+如果这个项目对您有帮助，您可以请我喝杯咖啡来支持开发！
 
-**🏆 赞助者权益：**
-- ✅ 优先技术支持
-- ✅ 功能建议优先考虑
-- ✅ 在 README 中展示（可选）
-- ✅ 早期体验新功能
+[![PayPal](https://img.shields.io/badge/PayPal-Buy_me_a_coffee-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/wide3751)
 
-**☕ 其他支持方式：**
-- **Buy me a coffee**: 请我喝杯咖啡 ☕
-- **加密货币**: Bitcoin, Ethereum 等（联系我获取地址）
-- **实物赞助**: 开发设备或云服务积分
-
-### 🏅 贡献者和赞助者
-
-**🌟 特别感谢以下支持者：**
-<!-- 这里会自动更新赞助者信息 -->
-
-*成为第一个支持者，您的名字将出现在这里！*
+*每一杯咖啡都是对开发者的鼓励，让项目持续更新！* ☕
 
 ## �📞 支持与反馈
 
@@ -259,6 +244,5 @@ sora-prompt-auto-runner/
 
 [![GitHub stars](https://img.shields.io/github/stars/wide3751/sora-prompt-auto-runner.svg?style=social&label=Star)](https://github.com/wide3751/sora-prompt-auto-runner)
 [![GitHub forks](https://img.shields.io/github/forks/wide3751/sora-prompt-auto-runner.svg?style=social&label=Fork)](https://github.com/wide3751/sora-prompt-auto-runner/fork)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/wide3751?style=social)](https://github.com/sponsors/wide3751)
 
-💝 **考虑赞助支持项目持续发展**
+☕ **考虑请我喝杯咖啡支持项目持续发展**
