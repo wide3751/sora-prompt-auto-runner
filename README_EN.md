@@ -2,6 +2,8 @@
 
 A Chrome extension designed specifically for Sora video generation platforms, capable of automatically batch-submitting prompts to help you easily complete large-scale video generation tasks.
 
+> **Language Versions**: **English** | [繁體中文](README.md) | [简体中文](README_CN.md)
+
 ## ✨ Key Features
 
 - 🚀 **Batch Automation**: Support submitting multiple prompts at once without manual input one by one
@@ -187,13 +189,14 @@ sora-prompt-auto-runner/
 
 ## 📝 Changelog
 
-### v1.0.0 (2025-09-25)
-- ✨ Initial version release
-- 🎨 Modern user interface design
-- 🚀 Basic batch automation functionality
-- 📊 Detailed logging support
-- ⚙️ Configurable XPath selectors
-- 🔄 Smart waiting and error handling
+### v1.2.0 (2025-09-25)
+- 📖 Added Simplified Chinese README
+- � Added multi-language version links
+- ✨ Improved documentation accessibility
+
+### v1.1.0 (2025-09-25)
+- � Fix manifest.json icons issue and add English README
+- ✨ Improved extension compatibility
 
 ## 📄 License
 
