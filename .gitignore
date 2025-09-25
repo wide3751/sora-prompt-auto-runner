@@ -3,6 +3,12 @@
 *.pem
 key.pem
 
+
+# Build output
+dist/
+test-build/
+release/
+
 # Development files
 .DS_Store
 Thumbs.db
