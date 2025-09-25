@@ -2,7 +2,7 @@
 
 一個專為 Sora 影片生成平台設計的 Chrome 擴充功能，能夠自動批量提交提示詞（prompts），讓您輕鬆完成大批量的影片生成任務。
 
-> **語言版本**: [English](README_EN.md) | **簡體中文** | [简体中文](README_CN.md)
+> **語言版本**: [English](README_EN.md) | **繁體中文** | [简体中文](README_CN.md)
 
 ## ✨ 功能特點
 
