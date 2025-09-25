@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Sora Prompt Auto Runner",
   "version": "1.1.0",
-  "description": "自動批量提交 Sora 視頻生成提示詞的 Chrome 擴展工具",
+  "description": "自動批量提交 Sora 影片生成提示詞的 Chrome 擴充功能工具",
   "author": "Sora Prompt Auto Runner Contributors",
   "homepage_url": "https://github.com/wide3751/sora-prompt-auto-runner",
   "action": { 
